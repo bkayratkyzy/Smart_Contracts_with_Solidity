@@ -18,4 +18,7 @@ Fortunately, you've been learning how to program smart contracts with Solidity! 
 
 ![Deferred Equity](screenshots/deployed_deferredEquity.png)
 
+![Deferred Equity](screenshots/distributed.png)
+
+
 ![Ganache transactions](screenshots/ganache_transactions.png)
