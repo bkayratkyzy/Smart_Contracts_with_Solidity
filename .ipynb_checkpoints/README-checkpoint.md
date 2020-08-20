@@ -22,14 +22,3 @@ Fortunately, you've been learning how to program smart contracts with Solidity! 
 
 
 ![Ganache transactions](screenshots/ganache_transactions.png)
-
-
-* Deploy the contracts to a live Testnet. Point MetaMask to the Kovan or Ropsten network. Ensure you have test Ether on this network!
-
-![Metamask](screenshots/metamask.png)
-
-![testnet](screenshots/testnet.png)
-
-![Live testnet](screenshots/live_testnet.png)
-
-
